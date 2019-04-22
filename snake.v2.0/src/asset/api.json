@@ -1,0 +1,68 @@
+//> "https://api.myjson.com/bins/q0mv8"
+
+//> "https://api.jsonbin.io/b/5c4b8aeb5bc16725808ac827"
+
+//> "https://api.npoint.io/00000818548841d8a661"
+
+{
+    "Name" : "Serhat",
+    
+    "Skor" : 10000000,
+    
+    "length" : 120,
+    
+    "thema" : "dark",
+    
+    "platform" : "android",
+}
+
+
+//> "https://api.myjson.com/bins/q0mv8"
+
+//> "https://api.jsonbin.io/b/5c4b8aeb5bc16725808ac827"
+
+//> "https://api.npoint.io/00000818548841d8a661"
+/*
+{
+    "Srhtocl":{
+        
+        "PlayerName":"Srhtocl",
+        
+        "Skor":55,
+        
+        "Length":16,
+        
+        "Date":"28.03.2019",
+        
+        "Level":5,
+        
+        "Time":46.012,
+        
+        "Thema":"dark",
+        
+        "Browser":"Chrome",
+        
+        "Platform":"Android"
+    },
+    
+    "Talişka":{
+        
+        "PlayerName":"Talişka",
+        
+        "Skor":5,
+        
+        "Length":6,
+        
+        "Date":"28.03.2019",
+        
+        "Level":5,
+        
+        "Time":5.609,
+        
+        "Thema":"light",
+        
+        "Browser":"Chrome",
+        
+        "Platform":"Android"
+    }
+}
